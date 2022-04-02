@@ -30,7 +30,7 @@
 #solarSystem{
     width: 50%;
     float: left;
-    padding: 30px;
+    padding: 60px;    
 }
 
 ol #navPlanets{
@@ -39,7 +39,6 @@ ol #navPlanets{
     height: 300px;
     background: #ccc;
     padding: 20px;
-
 }
 
 
